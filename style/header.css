@@ -7,3 +7,101 @@
     bottom: 0;
     margin: 0 0 75px 250px;
 }
+
+header {
+    background-color: rgba(20, 16, 36);
+}
+
+.div__header {
+    position: relative;
+    height: 100px;
+}
+
+.text_header {
+    margin-top: 30px;
+    float: left;
+    color: white;
+}
+
+.button__and_text_header {
+    width: 400px;
+    height: 500px
+}
+
+#div__text_header {
+    width: 400px;
+    margin-left: 25%;
+}
+
+p {
+    display: inline;
+}
+
+#number_header {
+    position: absolute;
+    right: 0;
+
+    margin: 30px 40px 0 0;
+}
+
+#rodo__header {
+    margin-left: 40px;
+}
+
+.class__p_header {
+    margin: 30px;
+}
+
+.text_but_head {
+    color: white;
+}
+
+img {
+    position: absolute;
+    width: 450px;
+    height: 550px;
+    right: 0;
+    top: 0;
+    margin: 100px 100px 0 0;
+}
+
+.div__photo_header {
+    position: relative;
+    
+    height: 700px;
+}
+
+
+
+.button {
+    position: relative;
+    width: 200px;
+    height: 80px;
+
+    border-radius: 5px;
+
+    background-color: rgba(213, 32, 39);
+
+    text-align: center;
+
+    margin: 0 0 0 60px;
+}
+
+
+#robo__h2_header {
+    margin: 100px 0 40px 60px;
+}
+
+#course__header {
+    display: block;
+    margin: 50px 0 40px 60px;
+}
+
+#text__but {
+    display: block;
+    position: absolute;
+
+    width: 70px;
+    height: 50px;
+    margin: 20px 50px 0 59px;
+}
