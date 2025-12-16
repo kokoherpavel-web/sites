@@ -1,0 +1,24 @@
+.text__header {
+    color: white;
+}
+
+.name__card {
+    font-weight: 400px;
+    font-size: 20px;
+
+    color: rgba(201, 169, 110);
+    margin: 0;
+}
+
+.main__text_card {
+    font-weight: 400;
+    font-size: 28px;
+
+    margin: 0;
+}
+
+.text__footer_bot {
+    position: absolute;
+    bottom: 0;
+    color: rgba(102, 102, 102);
+}

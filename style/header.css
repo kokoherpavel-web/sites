@@ -1,0 +1,9 @@
+.div__header {
+    position: relative;
+}
+
+.div__text_header {
+    position: absolute;
+    bottom: 0;
+    margin: 0 0 75px 250px;
+}

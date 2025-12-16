@@ -1,0 +1,30 @@
+main {
+    place-items: center;
+    margin-top: 50px;
+    height: 1400px;
+    width: 100%;
+}
+
+section {
+    width: 850px;
+}
+
+.div__card_main {
+    width: 370px;
+    height: 411px;
+    float: left;
+    margin: 20px;
+    border: 2px solid black;
+
+    text-align: center;
+}
+
+.photo__main {
+    width: 370px;
+    height: 280px;
+}
+
+.div__main_text {
+    width: 370px;
+    height: 131px;
+}

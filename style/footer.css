@@ -1,0 +1,25 @@
+footer {
+    position: relative;
+    place-items: center;
+}
+
+.div__footer {
+    width: 1200px;
+    height: 300px;
+    margin: 50px 0 75px 0;
+    place-items: center;
+    text-align: center;
+}
+
+.text__div_footer {
+    margin-top: 75px;
+}
+
+
+.div_photo__footer {
+    margin: 30px 0 30px 0;
+}
+
+.footer__img {
+    margin: 10px;
+}
